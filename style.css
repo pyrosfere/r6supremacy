@@ -2,6 +2,10 @@
     color: #f0f0f0;
 }
 
+h1.github-pages-title {
+    display: none;
+}
+
 body {
     background-color: #1b1b1b 
 }
