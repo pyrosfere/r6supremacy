@@ -24,8 +24,6 @@ a:hover:visited {
     color: #3e5a6d
 }
 
-code {
-    background-color: #141414;
-    color: #e7e7e7;
+q {
     font-family: 'Courier New', Courier, monospace;
 }
