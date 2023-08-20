@@ -1,5 +1,8 @@
-body {
+* {
     color: #f0f0f0;
+}
+
+body {
     background-color: #1b1b1b 
 }
 
@@ -22,8 +25,4 @@ a:hover {
 
 a:hover:visited {
     color: #3e5a6d
-}
-
-q {
-    font-family: 'Courier New', Courier, monospace;
 }
