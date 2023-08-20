@@ -14,7 +14,7 @@ The objective of this website is to promote R6-only games, games made with true 
 
 <style>
     body {
-        color: #fff;
-        background-color: #000 
+        color: #f0f0f0;
+        background-color: #1b1b1b 
     }
 </style>
