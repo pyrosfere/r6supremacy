@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="style.css">
+<h1 class="github-pages-title"></h1>
 
 # Rig-6 Supremacy
 R6 is the classical, supreme, nostalgic, uniform, god-like, glorious, ultimate and definitive caricature of Roblox, and we must protect it. With Roblox become more corporatized everyday and losing its sense of community, it keeps trying to shove down Rthro into the player's throats, when they really don't want it. R15 is kinda bad, R6 is definetily superior, however R15 is the last that we can handle, Rthro is a disgraceful abomination that should be annihilated of the face of ROBLOXia, and we must fight it, just like the corporatization, unmoderated UGCs, layered clothing, animated faces, etc.. 
