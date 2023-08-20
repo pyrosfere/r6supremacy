@@ -9,8 +9,7 @@ R6 is the classical, supreme, nostalgic, uniform, god-like, glorious, ultimate a
 
 The objective of this website is to promote R6-only games, games made with true passion, with love for game developing and Roblox, with love for the community, not made onl for profit, rare, worth-playing, hidden gems within the current garbage dumb hellhole that is the current Roblox "experience" scenario, full of degenerate, absolutely disgusting, trash, cashgrab, games made to scam the shit out of little children.
 
----
-**Explore our website:**
+## Explore our website:
 
 [See categories →](categories)
 
